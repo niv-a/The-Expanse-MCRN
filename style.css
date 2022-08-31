@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.morn img {
+    width: 300px;
+    padding: 30px 50px; /* 30 and 50 is y-axis and x-axis padding respt. */
+   
+}
+p {
+    padding: 10px 50px;
+}
+
+.person {
+    font-weight: bold;
+}
+ 
+.desig {
+    font-size: 10px;
+}
+
+/*-------------------------------------------------*/
+
+.garuda{
+    padding: 10px 50px;
+    position: fixed;
+    right: 107px;
+    bottom: 127px;
+}
+
+.centurion{
+    padding: 10px 50px;
+    position: fixed;
+    right: 100px;
+    bottom: 20px;
+}
+
+.scirocco {
+    padding: 10px 36px;
+    position: fixed;
+    right: 0px;
+    bottom: 360px;
+}
+
+.donnager {
+    padding: 10px 36px;
+    position: fixed;
+    right: 0px;
+    bottom: 245px;
+}
+
+.tachi {
+    padding: 10px 38px;
+    position: fixed;
+    right: 0px;
+    bottom: 130px;
+}
+
+.eml {
+    padding: 10px 50px;
+    position: fixed;
+    right: 0.1px;
+    bottom: 20px;
+}
+
+.badges {
+    height: 90px;
+}
+
+.oneline {
+    font-size:15.5px;
+    transform: rotate(270deg);
+    position: fixed;
+    left: -75px;
+    bottom: 165px;
+
+}
